@@ -2,3 +2,4 @@ config.py
 exported_tickets.json
 ticket_export.log
 exported_tickets.json
+venv
